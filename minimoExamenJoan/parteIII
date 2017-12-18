@@ -1,0 +1,12 @@
+Para Implementar todas esta funcionalidades habria que crear una tabla
+para las Productos con:
+- nombre del producto
+- precio del producto
+- identificador del producto
+
+Tambien habrí que implemntar una tabla de pedidos realizados donde hayan los campos de:
+- Usuario que haya realizado el pedido
+- lista de productos del pedido con la cantidad de cada producto
+(para realizar esto habria que  relacionar los productos con un mismo pedido a traves de identificadores y luego establecer una cantidad para dichos productos)
+
+También habria una tabla de pedidos servidos de las misma características que la anterior tabla.
